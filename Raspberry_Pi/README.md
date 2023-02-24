@@ -1,5 +1,7 @@
-# 1.54_LCD_Breakout
+Step 1 – Enable SPI Interface
+Method 1 – Using “Raspi-config” on Command Line
 
-1.54inch LCD breakout Module for microcontrollers eg: Raspberry pi, Arduino and raspberry pi pico etc. it has , 65K Colors, 240×240, supports SPI protocol
+```sudo raspi-config```
 
-<img src = "https://github.com/sbcshop/1.54_LCD_Breakout_Software/blob/main/Images/img.png"/>
+
+
