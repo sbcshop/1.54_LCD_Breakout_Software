@@ -14,3 +14,10 @@ There are three folder in this Repository
    
   * Raspberry Pi PICO - Run LCD from PICO  ***[PICO Example](https://github.com/sbcshop/1.54_LCD_Breakout_Software/tree/main/Raspberry%20Pi%20PICO)*** 
     <img src = "https://github.com/sbcshop/1.54_LCD_Breakout_Software/blob/main/Images/img4.png"/>
+
+## Documentation
+
+* [1.54 Lcd Breakout Hardware](https://github.com/sbcshop/1.54_LCD_Breakout_Hardware)
+* [Getting Started with Raspberry Pi Pico](https://projects.raspberrypi.org/en/projects/getting-started-with-the-pico)
+* [Raspberry Pi Pico Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
+* [Hardware Design](https://github.com/sbcshop/1.54_LCD_Breakout_Hardware/tree/main/Design%20Data) 
