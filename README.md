@@ -29,7 +29,26 @@ There are three folder in this Repository
 
  ![1.3 Lcd Breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/01_1_a486ba53-c02b-4491-b110-a9b64736ad39.png?v=1677241189&width=400)
  
+* [1.3 Lcd HAT](https://shop.sb-components.co.uk/products/1-3-lcd-hat-for-raspberry-pi)
 
+ ![1.3 Lcd HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/1.3inchLCDDisplayForRaspberryPi.png?v=1627629110&width=400)
+ 
+* [1.28 Lcd Breakout](https://shop.sb-components.co.uk/products/1-28-round-lcd-breakout)
+
+ ![1.28 Lcd Breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/01_a58fb20c-7cc7-4908-bfca-549b28c721b6.png?v=1677234693&width=400)
+
+* [1.28 Lcd HAT](https://shop.sb-components.co.uk/products/round-lcd-hat-for-raspberry-pi)
+
+ ![1.28 Lcd HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/LCDHATforPi.jpg?v=1619171154&width=400)
+ 
+ * [1.28 Round Touch Lcd-HAT](https://shop.sb-components.co.uk/products/round-lcd-hat-for-raspberry-pi](https://shop.sb-components.co.uk/products/1-28-round-touch-lcd-hat-for-raspberry-pi)
+
+ ![1.28 Round Touch Lcd-HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/1_3_43e15cb7-5df3-40b4-9131-f253b159f01d.jpg?v=1670247592&width=400)
+ 
+ * [1.28 Round Lcd-HAT For PICO](https://shop.sb-components.co.uk/products/1-28-round-lcd-hat-for-pico)
+
+ ![1.28 Round Lcd-HAT For PICO](https://cdn.shopify.com/s/files/1/1217/2104/products/1.28_RoundLCDHATforPico.png?v=1622634190&width=400)
+ 
 ## Product License
 
 This is ***open source*** product. Kindly check LICENSE.md file for more information.
