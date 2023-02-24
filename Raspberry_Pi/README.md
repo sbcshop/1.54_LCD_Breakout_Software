@@ -13,6 +13,7 @@ After that follow below steps
 
 Step 2 – Download the code 
 Copy and paste below link on command line of raspberry pi
+
 ```git clone https://github.com/sbcshop/1.54_LCD_Breakout_Software```
 
 Step 3 – Then go to  1.54_LCD_Breakout folder - > Examples -> run main.py file
