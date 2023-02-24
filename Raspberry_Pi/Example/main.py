@@ -3,7 +3,6 @@
 import os
 import sys 
 import time
-import logging
 import spidev as SPI
 sys.path.append("..")
 from Library import lcd_lib
