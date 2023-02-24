@@ -1,3 +1,4 @@
+//install Adafruit_GFX and Adafruit_ST7789 library in arduino ide then upload the code to arduino
 #include <Adafruit_GFX.h>    // Core graphics library
 #include <Adafruit_ST7789.h> // Hardware-specific library for ST7789
 #include <SPI.h>             // Arduino SPI library
