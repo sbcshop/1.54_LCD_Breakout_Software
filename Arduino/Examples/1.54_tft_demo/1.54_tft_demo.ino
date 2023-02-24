@@ -5,7 +5,7 @@
 // ST7789 TFT module connections
 #define TFT_CS     10
 #define TFT_RST    8  // define reset pin, or set to -1 and connect to Arduino RESET pin
-#define TFT_DC     9  // define data/command pin
+#define TFT_DC     7  // define data/command pin
  
 // Initialize Adafruit ST7789 TFT library
 Adafruit_ST7789 tft = Adafruit_ST7789(TFT_CS, TFT_DC, TFT_RST);
