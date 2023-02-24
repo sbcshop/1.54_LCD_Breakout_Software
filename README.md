@@ -4,5 +4,8 @@
 
 <img src = "https://github.com/sbcshop/1.54_LCD_Breakout_Software/blob/main/Images/img.png"/>
 
-
-[RFID HAT for RaspberryPi](https://shop.sb-components.co.uk/products/rfid-hat-for-raspberry-pi?_pos=3&_sid=59f725ea2&_ss=r)
+## Code
+There are three folder in this Repository
+  * Raspberry_Pi -  [RaspberryPi](https://github.com/sbcshop/1.54_LCD_Breakout_Software/tree/main/Raspberry_Pi)
+  * Arduino  - [RaspberryPi](https://github.com/sbcshop/1.54_LCD_Breakout_Software/tree/main/Raspberry_Pi)
+  * Raspberry Pi PICO - 
