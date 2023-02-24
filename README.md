@@ -27,7 +27,7 @@ There are three folder in this Repository
 
 * [1.3 Lcd Breakout](https://shop.sb-components.co.uk/products/1-3-lcd-breakout)
 
- ![[1.3 Lcd Breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/01_1_a486ba53-c02b-4491-b110-a9b64736ad39.png?v=1677241189&width=400)
+ ![1.3 Lcd Breakout](https://cdn.shopify.com/s/files/1/1217/2104/products/01_1_a486ba53-c02b-4491-b110-a9b64736ad39.png?v=1677241189&width=400)
  
 
 ## Product License
