@@ -10,7 +10,6 @@
      
       <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img13.png" />
         
-      <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img1.JPG" />
         
      After this go to run->select interpreter,choose device and port
         <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img2.png" />
