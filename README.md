@@ -41,7 +41,7 @@ There are three folder in this Repository
 
  ![1.28 Lcd HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/LCDHATforPi.jpg?v=1619171154&width=400)
  
- * [1.28 Round Touch Lcd-HAT](https://shop.sb-components.co.uk/products/round-lcd-hat-for-raspberry-pi](https://shop.sb-components.co.uk/products/1-28-round-touch-lcd-hat-for-raspberry-pi)
+ * [1.28 Round Touch Lcd-HAT](https://shop.sb-components.co.uk/products/1-28-round-touch-lcd-hat-for-raspberry-pi)
 
  ![1.28 Round Touch Lcd-HAT](https://cdn.shopify.com/s/files/1/1217/2104/products/1_3_43e15cb7-5df3-40b4-9131-f253b159f01d.jpg?v=1670247592&width=400)
  
