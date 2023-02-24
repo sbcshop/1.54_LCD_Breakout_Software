@@ -8,9 +8,9 @@
  2. Install **Micropython** in PICO
      first you need to press the boot button then connect the USB, don,t release the button until you connect the USB to the laptop. then you see a new device named         "RPI-RP2" drag this file "firmware.uf2" (which is in this repository )to this device. 
      
-        <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img13.png" />
+      <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img13.png" />
         
-        <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img1.JPG" />
+      <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img1.JPG" />
         
      After this go to run->select interpreter,choose device and port
         <img src= "https://github.com/sbcshop/RoundyPi/blob/main/images/img2.png" />
